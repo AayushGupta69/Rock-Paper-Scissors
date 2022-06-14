@@ -1,4 +1,4 @@
-#C++ Introduction:
+# C++ Introduction:
 
 • C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs.
 
@@ -10,7 +10,7 @@
 
 • C++ runs on a variety of platforms, such as Windows, Mac OS and the various versions of UNIX.
 
-#Qt Introduction:
+# Qt Introduction:
 
 • Qt is a cross-platform software for creating Graphical User Interfaces (GUIs) as well as cross-platform applications.
 
@@ -18,7 +18,7 @@
 
 • Qt is used for developing Graphical User Interfaces (GUIs) and multi-platform applications that run on all major desktop platforms and most mobile or embedded platforms.
 
-#Project Description:
+# Project Description:
 
 • This is a simple C++ application to demonstrate rock, paper and scissors game using Qt framework. In this game, players have to choose one of the three options to beat the opponent or the computer itself.
 
