@@ -10,10 +10,10 @@
  # Working
 The C++ function, that compares both the choices, works based on the following criteria:
 
-Rock beats scissors as it smashes Scissors.
+• Rock beats scissors as it smashes Scissors.
 
-Scissors beats paper as it cuts Papers.
+• Scissors beats paper as it cuts Papers.
 
-Paper beats rocks as it wraps the Rock.
+• Paper beats rocks as it wraps the Rock.
 
-Show a tie if both choices match.
+• Show a tie if both choices match.
